@@ -11,7 +11,7 @@ spelling: cSpell:ignore appdynamics aria aspecto bution coralogix daocloud datad
 OpenTelemetry in their commercial products.
 
 | Company\*                  | Distri&shy;bution | Native OTLP | Learn more                                                                                                                                            |
-|----------------------------|-------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ----------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AppDynamics (Cisco)        | Yes               | Yes         | [docs.appdynamics.com/...](https://docs.appdynamics.com/latest/en/application-monitoring/appdynamics-for-opentelemetry)                               |
 | Aria by VMware (Wavefront) | No                | Yes         | [docs.wavefront.com/...](https://docs.wavefront.com/opentelemetry_tracing.html)                                                                       |
 | Aspecto                    | Yes               | Yes         | [aspecto.io](https://www.aspecto.io)                                                                                                                  |
