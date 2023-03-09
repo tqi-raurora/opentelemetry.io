@@ -11,7 +11,7 @@ spelling: cSpell:ignore appdynamics aria aspecto bution coralogix daocloud datad
 OpenTelemetry in their commercial products.
 
 | Company\*                  | Distri&shy;bution | Native OTLP | Learn more                                                                                                                                            |
-| -------------------------- | ----------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+|----------------------------|-------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AppDynamics (Cisco)        | Yes               | Yes         | [docs.appdynamics.com/...](https://docs.appdynamics.com/latest/en/application-monitoring/appdynamics-for-opentelemetry)                               |
 | Aria by VMware (Wavefront) | No                | Yes         | [docs.wavefront.com/...](https://docs.wavefront.com/opentelemetry_tracing.html)                                                                       |
 | Aspecto                    | Yes               | Yes         | [aspecto.io](https://www.aspecto.io)                                                                                                                  |
@@ -23,6 +23,7 @@ OpenTelemetry in their commercial products.
 | Dynatrace                  | Yes               | Yes         | [dynatrace.com/...](https://www.dynatrace.com/support/help/how-to-use-dynatrace/transactions-and-services/service-monitoring-settings/opentelemetry/) |
 | Elastic                    | Yes               | Yes         | [elastic.co/...](https://www.elastic.co/guide/en/apm/get-started/current/open-telemetry-elastic.html)                                                 |
 | F5                         | No                | Yes         | [opentelemetry-collector-contrib/...](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/exporter/f5cloudexporter)           |
+| ITRS                       | Yes               | Yes         | [https://docs.itrsgroup.com/docs/geneos/...](https://docs.itrsgroup.com/docs/geneos/data-collection/opentelemetry/current/opentelemetry.html)         |
 | Google Cloud Platform      | No                | Yes         | [opentelemetry-collector-contrib/...](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/exporter/googlecloudexporter)       |
 | Grafana Labs               | No                | Yes         | [grafana.com/...](https://grafana.com/oss/opentelemetry/)                                                                                             |
 | Helios                     | Yes               | Yes         | [gethelios.dev](https://gethelios.dev/)                                                                                                               |
